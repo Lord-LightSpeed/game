@@ -1,0 +1,3 @@
+# Welcome to yet another repo that will probably die soon...
+
+I'm going to try and make a game in rust, this will be a terminal based rougelike
